@@ -7,7 +7,7 @@ Simple graphQl api using nodeJs
 ## Installation
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 node index.js
 ```
 
